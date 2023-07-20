@@ -1,0 +1,22 @@
+{
+  "name": "node_lesson1",
+  "version": "1.0.0",
+  "description": "node js course on youtube",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "node",
+    "nodejs"
+  ],
+  "author": "Osadchuk Daria",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
